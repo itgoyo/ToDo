@@ -296,3 +296,8 @@ getContentResolver().insert(uri,values);
 2017.3.2 01:10
 
 《黑客与画家》  p102 mark
+
+2017.3.3 23:19
+
+《黑客与画家》  p204 mark  
+第十三章《书呆子的复仇》
