@@ -301,3 +301,7 @@ getContentResolver().insert(uri,values);
 
 《黑客与画家》  p204 mark  
 第十三章《书呆子的复仇》
+
+2017-3-12
+
+《俞敏洪：在痛苦的世界中尽力而为》
