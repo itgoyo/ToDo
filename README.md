@@ -285,7 +285,7 @@ if(cursor != null){
 ```java
 ContentValues values = new ContentValues();
 values.put("column1","text");
-values.put("column2",1);
+values.put("column2",1);∏
 getContentResolver().insert(uri,values);
 ```
 
@@ -305,3 +305,5 @@ getContentResolver().insert(uri,values);
 2017-3-12
 
 《俞敏洪：在痛苦的世界中尽力而为》
+
+command+shift+.  (即可显示隐藏的文件)
